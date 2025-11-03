@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/salehs1/Threat-Hunting-Scenario-Tor-Browser-Usage-)**
+- **[Threat Hunting Scenario (System Compromised)](https://github.com/salehs1/Threat-Hunting-Compromised-System)**
 
 <hr/>
 
